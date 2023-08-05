@@ -1,4 +1,4 @@
-# this is a python file
+# this is a python app file
 
 import os
 
